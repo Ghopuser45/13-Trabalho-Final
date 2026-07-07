@@ -45,19 +45,12 @@ O sistema foi desenvolvido utilizando tecnologias de Front-End e tem como objeti
 13-Trabalho-Final/
 
 ├── index.html
-
 ├── css/
-
 │ └── style.css
-
 ├── images/
-
 ├── js/
-
 │ └── script.js
-
 ├── LICENSE
-
 └── README.md
 ```
 
