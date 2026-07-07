@@ -42,12 +42,13 @@ O sistema foi desenvolvido utilizando tecnologias de Front-End e tem como objeti
 
 ```text
 13-Trabalho-Final/
-├── index.html
+
 ├── css/
 │ └── style.css
 ├── images/
 ├── js/
 │ └── script.js
+├── index.html
 ├── LICENSE
 └── README.md
 ```
