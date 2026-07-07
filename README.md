@@ -53,17 +53,36 @@ O sistema foi desenvolvido utilizando tecnologias de Front-End e tem como objeti
 └── README.md
 ```
 
-##
+## Como Executar
 
-##
+- Faça o download ou clone o repositório:
+```bash
+git clone https://github.com/Ghopuser45/13-Trabalho-Final.git
+```
+- Abra o arquivo index.html em um navegador.
+- Utilize o sistema para cadastrar e gerenciar suas tarefas.
 
-##
+## Trabalhos Futuros
 
-##
+- Ordenação por data
+- Gráficos de desempenho
+- Login
+- Banco de dados
+- Notificação
+- Estatísticas semanais
+- Filtro por disciplina
+- Busca de tarefas
+- Calendário acadêmico de compromissos
+- Dashboard personalizada de produtividade
 
-##
+## Autores
 
-##
+Nome(s): Gustavo Henrique, Kauan Pereira, Ian Maia, Isly do Nascimento
 
-##
+Esse projeto foi desenvolvido para o trabalho final da disciplina de Desenvolvimento Web I.
+
+## Licença do projeto
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
 
