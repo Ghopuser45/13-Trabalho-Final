@@ -47,6 +47,7 @@ O sistema foi desenvolvido utilizando tecnologias de Front-End e tem como objeti
 ├── js/
 │ └── script.js
 ├── images/
+├── LICENSE
 ├── README.md
 └── index.html
 
