@@ -73,7 +73,6 @@ git clone https://github.com/Ghopuser45/13-Trabalho-Final.git
 - Filtro por disciplina
 - Busca de tarefas
 - Calendário acadêmico de compromissos
-- Dashboard personalizada de produtividade
 
 ## Autores
 
