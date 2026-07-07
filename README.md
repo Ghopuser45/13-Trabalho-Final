@@ -41,9 +41,7 @@ O sistema foi desenvolvido utilizando tecnologias de Front-End e tem como objeti
 ## Estrutura do projeto
 
 ```text
-
 13-Trabalho-Final/
-
 ├── index.html
 ├── css/
 │ └── style.css
