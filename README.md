@@ -73,7 +73,7 @@ git clone https://github.com/Ghopuser45/13-Trabalho-Final.git
 - Busca de tarefas
 - Calendário acadêmico
 - Notificações e lembretes
-- Login de usuários
+- Cadastro e Login de usuários
 - Integração com banco de dados
 - Gráficos e estatísticas de desempenho
 
