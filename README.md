@@ -21,6 +21,10 @@ O sistema foi desenvolvido utilizando tecnologias de Front-End e tem como objeti
 - CSS3
 - JavaScript
 - LocalStorage
+- Visual Studio Code
+- Git
+- GitHub
+- ChatGPT
 
 ## Funcionalidades
 
